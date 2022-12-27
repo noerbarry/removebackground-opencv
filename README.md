@@ -1,2 +1,2 @@
 # removebackground-opencv
-removebackground with opencv
+removebackground menggunakan opencv
